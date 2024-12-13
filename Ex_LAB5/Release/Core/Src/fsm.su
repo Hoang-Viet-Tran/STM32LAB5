@@ -1,0 +1,5 @@
+../Core/Src/fsm.c:24:7:get_command	0	static
+../Core/Src/fsm.c:27:6:clr_command	8	static
+../Core/Src/fsm.c:33:6:HAL_UART_RxCpltCallback	8	static
+../Core/Src/fsm.c:40:6:command_parser_fsm	4	static
+../Core/Src/fsm.c:64:6:uart_communication_fsm	8	static

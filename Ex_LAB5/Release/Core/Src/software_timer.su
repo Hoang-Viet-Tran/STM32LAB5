@@ -1,0 +1,3 @@
+../Core/Src/software_timer.c:16:6:setTimer0	0	static
+../Core/Src/software_timer.c:20:6:setTimer1	0	static
+../Core/Src/software_timer.c:25:6:timer_run	0	static

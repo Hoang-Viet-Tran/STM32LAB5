@@ -1,0 +1,5 @@
+../Core/Src/fsm.c:24:7:get_command	1
+../Core/Src/fsm.c:27:6:clr_command	1
+../Core/Src/fsm.c:33:6:HAL_UART_RxCpltCallback	2
+../Core/Src/fsm.c:40:6:command_parser_fsm	6
+../Core/Src/fsm.c:64:6:uart_communication_fsm	6
